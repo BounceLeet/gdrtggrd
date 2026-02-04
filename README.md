@@ -89,7 +89,8 @@ mvn javafx:run
 3. Найдите главный класс Main.java
 4. Запустите приложение
 📂 Структура проекта
-
+```
+css
 sleep-analysis-module/
 ├── src/
 │   ├── main/
@@ -107,6 +108,7 @@ sleep-analysis-module/
 ├── pom.xml
 ├── .gitignore
 └── README.md
+```
 🐞 Сообщение о проблемах
 
 Если вы нашли баг или хотите предложить улучшение — создайте Issue с подробным описанием.
